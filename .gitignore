@@ -21,3 +21,27 @@
 /rts/npm-debug.log*
 /rts/yarn-debug.log*
 /rts/yarn-error.log*
+
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/redux-ts/node_modules
+/redux-ts/.pnp
+/redux-ts/.pnp.js
+
+# testing
+/redux-ts/coverage
+
+# production
+/redux-ts/build
+
+# misc
+/redux-ts/.DS_Store
+/redux-ts/.env.local
+/redux-ts/.env.development.local
+/redux-ts/.env.test.local
+/redux-ts/.env.production.local
+
+/redux-ts/npm-debug.log*
+/redux-ts/yarn-debug.log*
+/redux-ts/yarn-error.log*
