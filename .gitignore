@@ -45,3 +45,5 @@
 /redux-ts/npm-debug.log*
 /redux-ts/yarn-debug.log*
 /redux-ts/yarn-error.log*
+
+/bundler/node_modules
